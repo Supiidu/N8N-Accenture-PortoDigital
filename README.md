@@ -17,7 +17,7 @@ Repositório do projeto em grupo voltado ao desenvolvimento de automações e fl
 | Bruna Rafaella Alves de Jesus | [Brukiess](https://github.com/Brukiess) | [LinkedIn](https://www.linkedin.com/in/bruna-alves98/) |
 | Tauan Moura Braz | — | [LinkedIn](https://www.linkedin.com/in/tauan-moura-697055187/) |
 | Gabriella Giovanna Pereira de Figueredo Presbiter | [gabriellapresbitero](https://github.com/gabriellapresbitero) | [LinkedIn](https://www.linkedin.com/in/gabriella-presb%C3%ADtero-25a00a30a/) |
-| Mariana Gabriele de Faria Silva | — | [LinkedIn](https://www.linkedin.com/in/mariana-faria-dev/) |
+| Mariana Gabriele de Faria Silva | [misakimarii](https://github.com/misakimarii) | [LinkedIn](https://www.linkedin.com/in/mariana-faria-dev/) |
 | Expedito Magalhães de Farias Júnior | [expeditomagalhaes-xp](https://github.com/expeditomagalhaes-xp) | [LinkedIn](https://www.linkedin.com/in/expedito-junior-/) |
 
 <!-- Para adicionar um perfil, substitua o travessão por [GitHub](https://github.com/usuario) ou [LinkedIn](https://www.linkedin.com/in/usuario/). -->
