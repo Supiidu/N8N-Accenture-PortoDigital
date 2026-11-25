@@ -11,12 +11,12 @@ Repositório do projeto em grupo voltado ao desenvolvimento de automações e fl
 
 | Nome | GitHub | LinkedIn |
 | --- | --- | --- |
-| Matheus Henrique Ferreira de Lima | [Supiidu](https://github.com/Supiidu) | — |
-| Paulo Henrique da Silva Pereira | — | — |
-| Antonio Gabriel Pinheiro da Silva | — | — |
+| Matheus Henrique Ferreira de Lima | [Supiidu](https://github.com/Supiidu) | [LinkedIn](https://www.linkedin.com/in/matheusshenrique/) |
+| Paulo Henrique da Silva Pereira | [paupebris](https://github.com/paupebris) | [LinkedIn](https://www.linkedin.com/in/paulo-henrique-da-silva-pereira-61a79b3bb/) |
+| Antonio Gabriel Pinheiro da Silva | [git-antonio-pinheiro](https://github.com/git-antonio-pinheiro) | [LinkedIn](https://www.linkedin.com/in/antoniogabrielpnhr/) |
 | Bruna Rafaella Alves de Jesus | — | — |
 | Tauan Moura Braz | — | — |
-| Gabriella Giovanna Pereira de Figueredo Presbiter | — | — |
+| Gabriella Giovanna Pereira de Figueredo Presbiter | [gabriellapresbitero](https://github.com/gabriellapresbitero) | [LinkedIn](https://www.linkedin.com/in/gabriella-presb%C3%ADtero-25a00a30a/) |
 | Mariana Gabriele de Faria Silva | — | — |
 | Expedito Magalhães de Farias Júnior | — | — |
 
