@@ -18,7 +18,7 @@ Repositório do projeto em grupo voltado ao desenvolvimento de automações e fl
 | Tauan Moura Braz | — | — |
 | Gabriella Giovanna Pereira de Figueredo Presbiter | [gabriellapresbitero](https://github.com/gabriellapresbitero) | [LinkedIn](https://www.linkedin.com/in/gabriella-presb%C3%ADtero-25a00a30a/) |
 | Mariana Gabriele de Faria Silva | — | — |
-| Expedito Magalhães de Farias Júnior | — | — |
+| Expedito Magalhães de Farias Júnior | [expeditomagalhaes-xp](https://github.com/expeditomagalhaes-xp) | [LinkedIn](https://www.linkedin.com/in/expedito-junior-/) |
 
 <!-- Para adicionar um perfil, substitua o travessão por [GitHub](https://github.com/usuario) ou [LinkedIn](https://www.linkedin.com/in/usuario/). -->
 
